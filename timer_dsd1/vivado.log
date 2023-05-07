@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Mon May  1 19:06:28 2023
+# Process ID: 18844
+# Current directory: D:/Semster6/ELCT601/Project/TimerProject/timer_dsd1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent25444 D:\Semster6\ELCT601\Project\TimerProject\timer_dsd1\timer_dsd1.xpr
+# Log file: D:/Semster6/ELCT601/Project/TimerProject/timer_dsd1/vivado.log
+# Journal file: D:/Semster6/ELCT601/Project/TimerProject/timer_dsd1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Semster6/ELCT601/Project/TimerProject/timer_dsd1/timer_dsd1.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/Fatma/OneDrive/Desktop/timer_dsd1' since last save.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/Semster6/ELCT601/Project/TimerProject/digilent-xdc-master/digilent-xdc-master/Basys-3-Master.xdc', nor could it be found using path 'C:/Users/Fatma/OneDrive/Desktop/digilent-xdc-master/digilent-xdc-master/Basys-3-Master.xdc'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.1/data/ip'.
+open_project: Time (s): cpu = 00:00:03 ; elapsed = 00:00:05 . Memory (MB): peak = 1035.543 ; gain = 0.000
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon May  1 19:07:57 2023...

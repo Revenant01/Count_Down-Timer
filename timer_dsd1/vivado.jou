@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Mon May  1 19:06:28 2023
+# Process ID: 18844
+# Current directory: D:/Semster6/ELCT601/Project/TimerProject/timer_dsd1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent25444 D:\Semster6\ELCT601\Project\TimerProject\timer_dsd1\timer_dsd1.xpr
+# Log file: D:/Semster6/ELCT601/Project/TimerProject/timer_dsd1/vivado.log
+# Journal file: D:/Semster6/ELCT601/Project/TimerProject/timer_dsd1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Semster6/ELCT601/Project/TimerProject/timer_dsd1/timer_dsd1.xpr
+update_compile_order -fileset sources_1
